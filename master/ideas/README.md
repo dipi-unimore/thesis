@@ -1,6 +1,6 @@
 # Research ideas
 
-- [Service Orchestration in Kubernetes with Digital Twins](#Service Orchestration in Kubernetes with Digital Twins)
+- [Service Orchestration in Kubernetes with Digital Twins](#service-orchestration-in-kubernetes-with-digital-twins)
 
 ## Service Orchestration in Kubernetes with Digital Twins
 
