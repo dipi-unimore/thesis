@@ -4,8 +4,8 @@
 
 * propose original development ideas
 * propose internships at companies
-* study/compare one or more technologies listed [here](bachelor/ideas/)
-* read, understand, and summarize a book listed [here](bachelor/ideas/)
+* study/compare one or more technologies listed [here](bachelor/ideas#Technologies)
+* read, understand, and summarize a book listed [here](bachelor/ideas#Books)
 
 **What to deliver?**
 
