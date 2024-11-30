@@ -39,3 +39,7 @@ The final grade ranges between 0 and 7:
 * 5-6 points are usually assigned to very good works
 * 7 points are assigned to outstanding works
 
+# Specific proposals
+
+ - Prof. Stefano Mariani: [https://smarianimore.github.io/students/](https://smarianimore.github.io/students/)
+ - 
