@@ -1,5 +1,20 @@
 # Thesis Idea & Topics - Update 26/01/2026
 
+Are you passionate about cutting-edge technologies like IoT, Digital Twins, or Artificial Intelligence? Do you want to work on real industrial systems and contribute to Industry 4.0 innovation? 
+
+Choose your thesis topic from our three main research areas:
+
+---
+
+## 🎯 Quick Navigation
+
+- **[Internet of Things & Industrial IoT](#internet-of-things--industrial-iot)** - Work with industrial protocols, automation systems, and cloud platforms
+- **[Digital Twins](#digital-twins)** - Design and develop virtual replicas of physical systems with real-time synchronization
+- **[Artificial Intelligence & Cyber-Physical Systems](#artificial-intelligence--cyber-physical-systems)** - Apply ML/AI to industrial environments for predictive maintenance and intelligent decision-making
+- **[MicroFactory Lab](#microfactory-evolution)** - Hands-on experience with our advanced robotics laboratory
+
+---
+
 ### Internet of Things & Industrial IoT
 
 | Title                                                  | Description                                                                                                                                                                                                                                                                                                                                                                      | Topics                                                                                                                              | Links                                                                                                                                                                     |
