@@ -60,3 +60,37 @@ Development of automated rotative storage system with advanced Pick & Place tech
 Implementation of multi-bay Pick & Place system for industrial automation with intelligent management of loading/unloading stations. The system includes two storage bays (Bay #1 and Bay #2) with visual status monitoring, integration with microcontrollers (ESP32, Arduino, TinyML) and development of control logic to optimize material flows in Industry 4.0 environment.
 
 ![pick_and_place_microfactory](images/pick_and_place_microfactory.jpeg)
+
+#### MicroFactory & Anomaly Detection (SMC Testbed)
+
+![smc_factory](images/smc_factory.png)
+
+Transform legacy microfactory robots into intelligent, self-monitoring systems. 
+This thesis combines IoT retrofitting, AI-driven analytics, and Digital Twin integration to enable predictive maintenance in modern Supply Chain Management environments.
+
+##### What You'll Do
+
+- **Retrofit & Connect:** Install accelerometers on critical robot components and build an MQTT-based IoT infrastructure for real-time data streaming.
+- **Develop AI Models:** Apply signal segmentation, clustering, and LSTM neural networks to detect operational anomalies and predict failures before they happen.
+- **Build a Digital Twin:** Integrate your AI models into a live Digital Twin framework that monitors, analyzes, and alerts operators in real-time.
+
+##### Why This Matters
+
+Bridge the gap between legacy industrial equipment and Industry 4.0 capabilities. 
+Your work will demonstrate how existing microfactory systems can gain predictive intelligence without costly replacements—delivering tangible value through reduced downtime and optimized maintenance.
+
+##### What You'll Gain
+
+Hands-on experience with cutting-edge technologies: IoT protocols, deep learning for time-series data, Digital Twin architectures, and real industrial testbeds at UNIMORE's DIPI Lab.
+
+##### Can lead to 
+
+- **Open Source Contribution**: Your work will be released in public repositories, building your portfolio with real-world industrial applications visible to potential employers and the research community
+- **Publication Opportunities**: High-quality results may lead to co-authorship in international conferences and journals
+- **Industry Connections**: Exposure to Industry 4.0 technologies and methodologies directly applicable in manufacturing, automotive, and smart factory sectors
+
+##### Ideal For
+
+- **Bachelor Students (3 months):** Focus on IoT infrastructure design, sensor integration, and baseline anomaly detection using traditional ML techniques (clustering, threshold-based methods).
+- **Master Students (6 months):** Complete end-to-end system development including advanced LSTM-based models, comprehensive Digital Twin integration, and industrial validation with performance benchmarking.
+- **Students in** Computer Engineering, Mechatronics, Computer Science, or Industrial Engineering passionate about AI, Industrial IoT, and practical applications of Digital Twin technology.
