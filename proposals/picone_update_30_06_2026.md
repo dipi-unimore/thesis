@@ -2,7 +2,7 @@
 
 Are you passionate about cutting-edge technologies like IoT, Digital Twins, or Artificial Intelligence? Do you want to work on real industrial systems and contribute to Industry 4.0 innovation? 
 
-Choose your thesis topic from our three main research areas:
+Here you can find some new thesis proposals and ideas. The proposals are designed to be flexible and adaptable to your interests and skills. 
 
 ## 🔗📊 1. RAG & Knowledge Graph for Industrial Intelligence
 
