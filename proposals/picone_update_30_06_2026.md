@@ -6,6 +6,8 @@ Choose your thesis topic from our three main research areas:
 
 ## 🔗📊 1. RAG & Knowledge Graph for Industrial Intelligence
 
+![rag_kg_thesis](images/rag_kg_thesis.png)
+
 **Number of students:** up to 2
 
 **Description:**
@@ -17,7 +19,7 @@ The thesis aims to evaluate Retrieval-Augmented Generation (RAG) and Knowledge G
 
 ## 💻🤖 2. GenAI and IoT/Industrial Software Engineering and Development
 
-![rag_kg_thesis](images/rag_kg_thesis.png)
+![genai_industrial_soft_eng](images/genai_industrial_soft_eng.png)
 
 **Number of students:** up to 1
 
