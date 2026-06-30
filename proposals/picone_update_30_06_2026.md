@@ -78,3 +78,11 @@ The thesis involves studying, implementing, and validating a Digital Product Pas
 | 🌐🧠 | 3 | Digital Twin Intelligence & Augmentation Function | up to 1 | Digital Twin, Augmentation Function, AI, Simulation | Industrial Grade / Microfactory | OSS, Publication |
 | 🏎️📡 | 4 | F1 Racing IoT & Digital Twin | up to 2 | Digital Twin, IoT Telemetry, AI for race strategy | Assetto Corsa Simulator | OSS, Publication |
 | 📦🏭 | 5 | Industrial Digital Product Passport & Digital Twin | up to 1 | Digital Product Passport, Digital Twin, ERP/MES | Industrial Grade / Microfactory | OSS, Publication |
+
+---
+
+#### MicroFactory & Anomaly Detection (SMC Testbed)
+
+![smc_factory](images/smc_factory.png)
+
+This is a small-scale industrial testbed designed for research and experimentation in the field of Industrial IoT, Digital Twins, and Industry 4.0. It allows students to work on real-world scenarios, testing their ideas and solutions in a controlled environment.
