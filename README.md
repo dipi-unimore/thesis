@@ -42,4 +42,6 @@ The final grade ranges between 0 and 7:
 # Specific proposals
 
  - Prof. Stefano Mariani: [https://smarianimore.github.io/students/](https://smarianimore.github.io/students/)
- - Prof. Marco Picone: [Thesis proposals - Update 26/01/2026](proposals/picone_update_26_01_2026.md)
+ - Prof. Marco Picone: **Updated 30/06/2026**
+   - [Update 30/06/2026](proposals/picone_update_30_06_2026.md)
+   - [Update 26/01/2026](proposals/picone_update_26_01_2026.md)
