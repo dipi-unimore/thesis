@@ -81,8 +81,10 @@ The thesis involves studying, implementing, and validating a Digital Product Pas
 
 ---
 
-#### MicroFactory & Anomaly Detection (SMC Testbed)
+## Laboratory Target MicroFactory
 
 ![smc_factory](images/smc_factory.png)
+
+For the proposed thesis topics, students will have access to the laboratory's target microfactory, which is equipped with a variety of industrial-grade IoT devices, sensors, and actuators. This microfactory serves as a testbed for implementing and validating the proposed solutions in real-world industrial scenarios.
 
 This is a small-scale industrial testbed designed for research and experimentation in the field of Industrial IoT, Digital Twins, and Industry 4.0. It allows students to work on real-world scenarios, testing their ideas and solutions in a controlled environment.
