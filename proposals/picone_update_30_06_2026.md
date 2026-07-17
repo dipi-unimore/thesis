@@ -69,6 +69,19 @@ The thesis involves studying, implementing, and validating a Digital Product Pas
 
 ---
 
+## 🔌🌐 6. Local AI & Edge Computing: High-Performance On-Device Generative Agents
+
+![edge_local_ai](images/edge_local_ai.png)
+
+**Number of students:** up to 1
+
+**Description:**
+The thesis aims to design, implement, and evaluate solutions for running and serving local generative AI models on edge hardware without relying on cloud APIs. The candidate will explore and benchmark state-of-the-art inference runtimes, including Ollama, llama.cpp, and vLLM, to optimize resource utilization and throughput on resource-constrained devices and edge nodes (like NVIDIA Jetson AI). Furthermore, the student will build local agentic workflows utilizing open-source orchestrators like OpenClaw, prototyping real-time vision-language and agentic applications capable of interacting autonomously with their physical environment.
+
+**Outcome/Impact:** Open Source Code, Comparative Performance Benchmarks, Scientific Publication
+
+---
+
 ## Summary Table
 
 | Icon | # | Title | Students | Main Focus | Experimentation Platform | Outcome |
@@ -78,6 +91,7 @@ The thesis involves studying, implementing, and validating a Digital Product Pas
 | 🌐🧠 | 3 | Digital Twin Intelligence & Augmentation Function | up to 1 | Digital Twin, Augmentation Function, AI, Simulation | Industrial Grade / Microfactory | OSS, Publication |
 | 🏎️📡 | 4 | F1 Racing IoT & Digital Twin | up to 2 | Digital Twin, IoT Telemetry, AI for race strategy | Assetto Corsa Simulator | OSS, Publication |
 | 📦🏭 | 5 | Industrial Digital Product Passport & Digital Twin | up to 1 | Digital Product Passport, Digital Twin, ERP/MES | Industrial Grade / Microfactory | OSS, Publication |
+| 🔌🌐 | 6 | Local AI & Edge Computing: High-Performance On-Device Generative Agents | up to 1 | Edge, AI, LLM, Agents | Industrial Grade / Microfactory | OSS, Publication |
 
 ---
 
