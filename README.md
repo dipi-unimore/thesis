@@ -24,7 +24,6 @@ The overall grade (0-3) is determined through a two-part assessment:
 **Topics**
 * propose original development ideas
 * propose internships at companies
-* develop a research line listed [here](master/ideas/)
 
 **What to deliver?**
 
