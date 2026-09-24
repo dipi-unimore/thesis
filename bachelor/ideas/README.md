@@ -1,5 +1,3 @@
-# Technologies
-
 # Thesis Proposals
 
 ### AI, LLMs and Intelligent Systems
