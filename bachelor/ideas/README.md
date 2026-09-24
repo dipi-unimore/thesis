@@ -14,6 +14,8 @@
 
 * **Benchmarking LLMs for Software Engineering Tasks** — Design and implement a benchmark for systematically evaluating different LLMs on representative Software Engineering tasks, such as code generation, code completion, bug fixing, refactoring, test generation and code explanation. Compare models using standardized datasets and metrics, considering correctness, functional success, code quality, execution time and resource consumption.
 
+* **Workflow Automation and AI Agents with n8n** — Design and implement an automated workflow system using [n8n](https://n8n.io/?utm_source=chatgpt.com) to orchestrate heterogeneous services, APIs and LLM-based components. Investigate different workflow and agent architectures for automating complex tasks, and evaluate reliability, execution time, scalability, maintainability and the degree of human intervention required.
+
 ### Digital Twins, IoT and Industrial Systems
 
 * **Industrial Digital Twin with IoT and Machine Learning** — Design and implement a Digital Twin of an industrial cell or MicroFactory by integrating sensor data, machine state information and a simulation model. Add Machine Learning-based anomaly detection and evaluate the system using real or simulated industrial data.
