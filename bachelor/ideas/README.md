@@ -32,8 +32,6 @@
 
 * **Function-as-a-Service Architectures for Event-Driven Applications** — Design and implement an event-driven application using a Function-as-a-Service (FaaS) architecture, deploying independent functions that react to events and interact with managed storage and messaging services. Compare serverless execution with a traditional container-based architecture in terms of scalability, latency, resource utilization, operational complexity and cost.
 
-* **Serverless Event-Driven Pipeline for Data and Image Processing** — Implement an event-driven processing pipeline using AWS Lambda, S3 and DynamoDB. Benchmark execution time, scalability, reliability and resource usage under different workloads.
-
 * **Observability Platform for Distributed Applications** — Integrate OpenTelemetry, Prometheus, Loki and Grafana into a distributed application to collect metrics, logs and traces. Design monitoring dashboards and evaluate the ability to identify performance problems and failures.
 
 ### Web, Mobile and Software Engineering
